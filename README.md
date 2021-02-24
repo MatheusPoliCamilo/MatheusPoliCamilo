@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MatheusPoliCamilo/MatheusPoliCamilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Matheus Poli Camilo
+
+## Hello guys 👋
+I'm a full stack developer :computer:
+
+ :rocket:  &nbsp; I'm working at **ASSEINFO** on the ERP web system https://facil123.com.br/
+ <br/> :purple_heart: &nbsp; I’m currently learning NodeJS and NextJS
+ <br/> :computer: &nbsp; My stack: ReactJS, Ruby on Rails, Typescript, Jest, Cypress and Rspec (I've worked with Laraval too)
+ <br/> 💬  &nbsp; About me: I like technologies, games and I'm passionate about e-sports, animes and programming
+ <br/> :email: &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MatheusPoli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-poli/)](https://www.linkedin.com/in/matheus-poli/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-matheuspolicamilo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuspolicamilo@gmail.com)](mailto:matheuspolicamilo@gmail.com)
+
+Readme created during the [Next Level Week #4](https://nextlevelweek.com/) bootcamp
+[<img width="auto" src="https://raw.githubusercontent.com/MatheusPoliCamilo/MatheusPoliCamilo/main/NLW04_pack_divulgacao_-_Github.png">](https://nextlevelweek.com/)
