@@ -1,7 +1,7 @@
 # Matheus Poli Camilo 👋
 
 Hello! I'm a full stack developer with more than two years of experience :computer:
-<br/> I am also studying the last semester of the technologist in Internet Systems at UNIVALI
+<br/> I am also graduated in Internet Systems technologist at UNIVALI
 
  :rocket:  &nbsp; I'm working at **ASSEINFO** on the ERP web system https://facil123.com.br/
  <br/> :purple_heart: &nbsp; I’m currently learning NodeJS, NextJS and Typescript
