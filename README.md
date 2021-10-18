@@ -1,11 +1,9 @@
 # Matheus Poli Camilo 👋
 
-Hello! I'm a full stack developer with more than two years of experience :computer:
-<br/> I am also graduated in Internet Systems technologist at UNIVALI
+Hello! I'm a full-stack developer with almost three years of experience :computer:
+<br/> I am also graduated in Internet Systems technologist at UNIVALI on Itajaí/SC
 
- :rocket:  &nbsp; I'm working at **ASSEINFO** on the ERP web system https://facil123.com.br/
- <br/> :purple_heart: &nbsp; I’m currently learning NodeJS, NextJS and Typescript
- <br/> :computer: &nbsp; My stack: ReactJS, Ruby on Rails, Jest, Cypress and Rspec (I've worked with Laraval too)
+ :rocket:  &nbsp; I'm working at **Nuuvem** https://www.nuuvem.com/
  <br/> 💬  &nbsp; About me: I love technologies, movies, animes and I'm passionate about games and programming
  <br/> :email: &nbsp; How to reach me: <br />
 <a href="https://www.linkedin.com/in/matheus-poli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
