@@ -1,6 +1,6 @@
 # Matheus Poli Camilo 👋
 
-Hello! I'm a full-stack developer with almost three years of experience :computer:
+Hello! I'm a full-stack developer with more than three years of experience :computer:
 <br/> I am also graduated in Internet Systems technologist at UNIVALI on Itajaí/SC
 
  :rocket:  &nbsp; I'm working at **Nuuvem** https://www.nuuvem.com/
