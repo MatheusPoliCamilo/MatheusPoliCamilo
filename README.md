@@ -3,8 +3,8 @@
 Hello! I'm a full-stack developer with more than three years of experience :computer:
 <br/> I am also graduated in Internet Systems technologist at UNIVALI on Itajaí/SC
 
-:rocket:  &nbsp; I'm working at **Nuuvem** https://www.nuuvem.com/
-<br/> 💎  &nbsp; I am currently specializing in Ruby on Rails with its new versions and features like Hotwire.
+:rocket:  &nbsp; I'm working at **Nuuvem** https://www.nuuvem.com/ ☁️
+<br/> 💎  &nbsp; I am currently specializing in Ruby on Rails with its new versions and features like Hotwire 🛤
 <br/> 💻  &nbsp; I've worked with: PHP, Laravel, Ruby on Rails, React, Typescript and NextJS.
 <br/> 💬  &nbsp; About me: I love technologies, movies, animes and I'm passionate about games and programming.
 <br/> :email: &nbsp; How to reach me: <br />
