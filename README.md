@@ -1,7 +1,7 @@
 # Matheus Poli Camilo 👋
 
 Hello! I'm a developer with more than five years of experience :computer:
-<br/> I am also graduated in Internet Systems technologist at UNIVALI on Itajaí/SC
+<br/> I also graduated as a technologist in Internet Systems from UNIVALI in Itajaí, Santa Catarina.
 
 :rocket:  &nbsp; I'm working at **Nuuvem** https://www.nuuvem.com ☁️
 <br/> 💎  &nbsp; I am currently specializing in Ruby on Rails with its new versions and features like Hotwire 🛤⚡
